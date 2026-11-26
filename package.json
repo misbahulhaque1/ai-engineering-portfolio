@@ -1,0 +1,1 @@
+{"name":"ai-engineering-portfolio","version":"1.0.0","type":"module","private":true,"scripts":{"build":"node tools/build.js","test":"node --test","dev":"npm run build && python3 -m http.server 4173 --directory dist"}}
